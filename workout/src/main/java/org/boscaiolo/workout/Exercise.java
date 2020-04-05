@@ -1,3 +1,4 @@
+package org.boscaiolo.workout;
 
 public class Exercise {
     
